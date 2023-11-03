@@ -1,0 +1,71 @@
+.a{
+    text-align: center;
+}
+.b{
+    text-decoration: underline;padding:10px;
+    text-align: left;
+    
+}
+.c{
+    text-align: left;
+    
+
+
+}
+.d{
+    text-align: left;
+
+
+}
+.e{
+    text-align: left;
+
+    text-decoration: underline;
+}
+.f{
+    text-align: left;
+   
+    text-decoration: underline;
+}
+.g{
+    text-align: left;
+ 
+   
+}
+.h{
+    text-align: left;
+    text-decoration: underline;
+}
+.i{
+    text-align: left;
+   
+
+}
+.j{
+    text-align: left;
+    text-decoration: underline;
+}
+.k{
+    text-align: left;
+    
+
+}
+
+
+form{
+    margin: 0 auto;
+    width: 50%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f5f5f5;
+}
+.s{
+    text-align:left;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 1px solid #0c0c0c; 
+}
